@@ -47,7 +47,7 @@ setting koneksi di core/config_database.php dan ganti username, password dan dbn
 <img src="https://raw.githubusercontent.com/musafii-fai/penjualan/master/assets/images/screenshoot/admin/produk_rumah.png">
 
 - Settings > Tentang Kami
-<img src="https://raw.githubusercontent.com/musafii-fai/penjualan/master/assets/images/screenshoot/admin/settings_tantang_kami.png">
+<img src="https://raw.githubusercontent.com/musafii-fai/penjualan/master/assets/images/screenshoot/admin/settings_tentang_kami.png">
 
 - Settings > Kontak
 <img src="https://raw.githubusercontent.com/musafii-fai/penjualan/master/assets/images/screenshoot/admin/settings_kontak.png">
