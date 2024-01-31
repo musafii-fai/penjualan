@@ -1,7 +1,5 @@
 # Deskripsi Aplikasi
 Aplikasi Berbasis Website, Tentang Penjualan Property Rumah
-<br>
-Note: Aplikasi Website untuk kebutuhan seleksi programmer dinas kominfo kota medan
 
 ## Setting Koneksi PHP
 setting koneksi di core/config_database.php dan ganti username, password dan dbname nya
